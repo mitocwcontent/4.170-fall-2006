@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 8167d81d-5ace-e952-75f9-327b004340b3
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: b17d19a4-2af1-7b93-61f3-f7b9409ea72e
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 16a751c4-5b5d-96cb-32bf-6faf58d0a560
+  name: Assignments
+  url: /pages/assignments
+  weight: 30
+- identifier: f3e5f503-51c3-4123-888d-13c00c404d5b
+  name: Projects
+  url: /pages/projects/
+  weight: 40
+- identifier: 8ab0d46b-c1a6-001c-2f9f-86fc11331618
+  name: Image Gallery
+  url: /pages/image-gallery
+  weight: 50
+- identifier: 4dee0ede-084b-5f91-0b80-d5572d3c4359
+  name: Ecuador Orphans
+  url: /pages/ecuador-orphans
+  weight: 60
+- identifier: 3d6afc6e-c5c2-24b1-ad6d-cb1fe2e8f3d2
+  name: Past Workshops
+  url: /pages/past-workshops
+  weight: 70
